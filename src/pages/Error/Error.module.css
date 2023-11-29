@@ -1,0 +1,20 @@
+.error_div {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0 auto;
+  min-height: 80vh;
+}
+
+.btn_navigate{
+    font-size: 20px;
+}
+
+.in_error span {
+  font-size: 60px;
+  font-weight: bold;
+}
+
+.in_error p {
+  font-size: 30px;
+}
